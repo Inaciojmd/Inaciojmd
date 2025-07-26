@@ -20,3 +20,12 @@
 </div>
 
 ---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" width="30px"> CYBER TOOLKIT
+
+```diff
++=================================================================+
+|  W A R N I N G:   A U T H O R I Z E D   A C C E S S   O N L Y  |
++=================================================================+
+! This repository contains tools for educational purposes only.   !
+! Unauthorized access or malicious use is strictly prohibited.    !
